@@ -1,0 +1,43 @@
+
+Select your option, from 0 to 10: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file.
+5. Search by ID
+6. Delete by ID
+7. Sort by ID.
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display.
+0. Exit
+
+1
+1. Load data from file and display
+|  ID                   |  Name                  |  Price                 |  Quantity              |
+|  P03                  |  Sugar                 |  25.1                  |  12                    |
+|  P01                  |  Miliket               |  5.2                   |  10                    |
+|  P02                  |  Apple                 |  4.3                   |  5                     |
+|  P05                  |  Rose                  |  15.4                  |  7                     |
+|  P07                  |  Beer                  |  12.2                  |  11                    |
+|  P04                  |  Book                  |  5.2                   |  9                     |
+|  3                    |  3                     |  3.0                   |  3                     |
+|  4                    |  4                     |  4.0                   |  4                     |
+
+Successfully!
+
+Select your option, from 0 to 10: 
+Product list:
+1. Load data from file and display
+2. Input & add to the end.
+3. Display data
+4. Save product list to file.
+5. Search by ID
+6. Delete by ID
+7. Sort by ID.
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display.
+0. Exit
+

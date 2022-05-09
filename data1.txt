@@ -1,0 +1,9 @@
+|  ID                   |  Name                  |  Price                 |  Quantity              |
+|  P03                  |  Sugar                 |  25.1                  |  12                    |
+|  P01                  |  Miliket               |  5.2                   |  10                    |
+|  P02                  |  Apple                 |  4.3                   |  5                     |
+|  P05                  |  Rose                  |  15.4                  |  7                     |
+|  P07                  |  Beer                  |  12.2                  |  11                    |
+|  P04                  |  Book                  |  5.2                   |  9                     |
+|  3                    |  3                     |  3.0                   |  3                     |
+|  4                    |  4                     |  4.0                   |  4                     |
